@@ -9,7 +9,7 @@
 - [x] Возможность использовать одновременно все запрещенные программы, запустив только 1 .bat файл
 
 ## Структура репозитория
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzen.ru%2Fa%2FZw4ehp-Zuw8_ZNPM&psig=AOvVaw2pQvajiZ6Pq8YN2X2QPui9&ust=1738049609255000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMimxsKxlYsDFQAAAAAdAAAAABAQ)
+[](https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_670e1e869f99bb0f3f64d3cc_678e53f871feae4844541b60/scale_1200)
 ## Guides
 ### Windows
 > [!IMPORTANT]  
